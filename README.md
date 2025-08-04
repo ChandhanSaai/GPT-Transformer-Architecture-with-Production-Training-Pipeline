@@ -13,7 +13,7 @@ A complete implementation of GPT-2.5 transformer architecture from scratch with 
 ### Training Optimizations
 - **Mixed Precision Training**: bfloat16 with automatic gradient scaling
 - **Gradient Accumulation**: Efficient large batch training with memory constraints
-- **Model Compilation**: `torch.compile` for 40% faster training
+- **Model Compilation**: `torch.compile` for 10x faster training
 - **Advanced Scheduling**: Cosine learning rate with warmup
 - **Professional Initialization**: GPT-2 style weight initialization (std=0.02)
 

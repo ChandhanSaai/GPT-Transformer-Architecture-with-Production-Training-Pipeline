@@ -53,8 +53,8 @@ numpy
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/gpt-transformer-pytorch.git
-cd gpt-transformer-pytorch
+git clone https://github.com/ChandhanSaai/GPT-Transformer-Architecture-with-Production-Training-Pipeline.git
+cd GPT.py
 ```
 
 ### 2. Install Dependencies
